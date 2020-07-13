@@ -3,4 +3,6 @@ Este es una archivo donde vamos hacer nuevos
 comandos de git  se trata de una pagina hecha en bootstrap
  editando el index 
 colaboradores 
-1.- Clarissa 
+1.- Clarissa ->header 
+2.- Jesus -> contenido 
+3.- Cristian ->
