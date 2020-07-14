@@ -5,4 +5,4 @@ comandos de git  se trata de una pagina hecha en bootstrap
 colaboradores 
 1.- Clarissa ->header 
 2.- Jesus -> contenido 
-3.- Cristian ->
+3.- Cristian -> header navegación.
